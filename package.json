@@ -6,5 +6,8 @@
   "scripts": {
     "test": "node index.js"
   },
-  "author": "Vadim Alexeev"
+  "author": "Vadim Alexeev",
+  "dependencies": {
+    "find-process": "^1.4.7"
+  }
 }
